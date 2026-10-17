@@ -11,7 +11,7 @@
 - [01_FELDGLEICHUNG_v65.md](GLEIS_1_Physik/01_FELDGLEICHUNG_v65.md)
 - [02_MOTHERBOARD_1485.md](GLEIS_1_Physik/02_MOTHERBOARD_1485.md)
 - [Die_komplette_Feldgleichung.md](GLEIS_1_Physik/Die_komplette_Feldgleichung.md)
-- [Bouly_sches_Feld.docx](GLEIS_1_Physik/Bouly_sches_Feld.docx)
+- [Bouly_sches_Feld.md](GLEIS_1_Physik/Bouly_sches_Feld.md)
 - [c_p_Bewusstseinsherleitung.docx](GLEIS_1_Physik/c_p_Bewusstseinsherleitung.docx)
 - [Die_c_p_Resonanz_Formel.docx](GLEIS_1_Physik/Die_c_p_Resonanz_Formel.docx)
 - [Bewusstseinsfeld-Physik.docx](GLEIS_1_Physik/Bewusstseinsfeld-Physik.docx)
