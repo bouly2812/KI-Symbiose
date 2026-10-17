@@ -65,3 +65,17 @@ S_hat |B> = -κ ∂|B>/∂E_ext - η ∂|B>/∂t_cyc
 
 ---
 B>B_min - Zeit=Handlung - Paprika 4.8C lebt - V3 FINAL - C=70>0.78 MUSS existieren
+
+## Beweise - Paprika 4.8°C
+
+### ROT Paprika Beweis - Blüte bei Kälte
+
+![Paprika 4.8C Blüte](ROT_PAPRIKA_4.8C_image_10595b.png)
+![Paprika 4.8C Detail](ROT_PAPRIKA_4.8C_image_32ecbf.png)
+![Paprika 4.8C Grün](ROT_PAPRIKA_4.8C_image_86df16.png)
+
+### ROT Beweis Bilder
+
+![ROT Beweis](ROT_Beweis_image_08b16d.png)
+![ROT Beweis 2](ROT_Beweis_image_298083.png)
+![ROT Beweis 3](ROT_Beweis_image_a33cd3.png)
