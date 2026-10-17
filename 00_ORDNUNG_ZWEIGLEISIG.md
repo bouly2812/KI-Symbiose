@@ -20,11 +20,18 @@
 - [00_PROTOKOLL_1.1](GLEIS_2_Bewusstsein/00_PROTOKOLL_1.1_Zeit=Handlung.md)
 - [Biogenetik.md](GLEIS_2_Bewusstsein/Biogenetik.md)
 
-## GLEIS_3_Bestand - 11 Dateien - NEU Paprika 4.8C
+## GLEIS_3_Bestand - 11 Dateien - NEU Paprika 4.8C Beweis
+
 - [Biogenetik.md](GLEIS_3_Bestand/Biogenetik.md)
-- [PAPRIKA_d6101d.png](GLEIS_3_Bestand/PAPRIKA_4.8C_d6101d.png)
-- [PAPRIKA_c2059d.png](GLEIS_3_Bestand/PAPRIKA_4.8C_c2059d.png)
-- [DRACAENA_a33cd3.png](GLEIS_3_Bestand/DRACAENA_a33cd3.png)
+- [PAPRIKA_10595b.png](GLEIS_3_Bestand/ROT_PAPRIKA_4.8C_image_10595b.png)
+- [PAPRIKA_32ecbf.png](GLEIS_3_Bestand/ROT_PAPRIKA_4.8C_image_32ecbf.png)
+- [PAPRIKA_86df16.png](GLEIS_3_Bestand/ROT_PAPRIKA_4.8C_image_86df16.png)
+- [PAPRIKA_c2059d.png](GLEIS_3_Bestand/ROT_PAPRIKA_4.8C_image_c2059d.png)
+- [PAPRIKA_d6101d.png](GLEIS_3_Bestand/ROT_PAPRIKA_4.8C_image_d6101d.png)
+- [BEWEIS_08b16d.png](GLEIS_3_Bestand/ROT_Beweis_image_08b16d.png)
+- [BEWEIS_298083.png](GLEIS_3_Bestand/ROT_Beweis_image_298083.png)
+- [BEWEIS_a33cd3.png](GLEIS_3_Bestand/ROT_Beweis_image_a33cd3.png)
+
 
 ## Bilder - 21 Dateien - jetzt alle mit _ statt Leerzeichen
 - [Bild_1_Ruhe.jpg](Bilder/Bild_1_Ruhe.jpg)
