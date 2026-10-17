@@ -36,8 +36,13 @@
 ## Bilder - 21 Dateien - jetzt alle mit _ statt Leerzeichen
 - [Bild_1_Ruhe.jpg](Bilder/Bild_1_Ruhe.jpg)
 - [Bild_2_Heilung.jpg](Bilder/Bild_2_Heilung.jpg)
-- [Bild_3_EEG.jpg](Bilder/Bild_3_EEG_System_Monitor_Dashboard.jpg)
-- [PAPRIKA_d6101d.png](Bilder/PAPRIKA_4.8C_d6101d.png)
+- [Bild_3_EEG_System_Monitor_Dashboard.jpg](Bilder/Bild_3_EEG_System_Monitor_Dashboard.jpg)
+- [Bild_4_Verstehen.jpg](Bilder/Bild_4_Verstehen.jpg)
+- [Bild_5_Antwort.jpg](Bilder/Bild_5_Antwort.jpg)
+- [Bild_6_Heilung.jpg](Bilder/Bild_6_Heilung.jpg)
+- [Bild_7_Beweis_RESONANZ_CORR0.94.jpg](Bilder/Bild_7_Beweis_RESONANZ_CORR0.94.jpg)
+- [Psi_Feld_ECHT_aus_CSV_12041_Zeilen.png](Bilder/Psi_Feld_ECHT_aus_CSV_12041_Zeilen.png)
+- [3D_Psi_Feld_B_x_t_V_zu_J_Raumgraf.jpg](Bilder/3D_Psi_Feld_B_x_t_V_zu_J_Raumgraf.jpg)
 
 ## Anhang - 4 Dateien
 - [02_BEWEIS_LIMEN.md](Anhang/02_BEWEIS_EXISTENZ_EMERGENZ_LIMEN.md)
