@@ -18,7 +18,7 @@
 
 ## GLEIS_2_Bewusstsein - 8 Dateien
 - [00_PROTOKOLL_1.1](GLEIS_2_Bewusstsein/00_PROTOKOLL_1.1_Zeit=Handlung.md)
-- [Biogenetik.docx](GLEIS_2_Bewusstsein/Biogenetik.docx)
+- [Biogenetik.md](GLEIS_2_Bewusstsein/Biogenetik.md)
 
 ## GLEIS_3_Bestand - 11 Dateien - NEU Paprika 4.8C
 - [Biogenetik.docx](GLEIS_3_Bestand/Biogenetik.docx)
