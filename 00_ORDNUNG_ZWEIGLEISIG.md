@@ -3,7 +3,7 @@
 
 ## Root
 - [LICENSE.md](LICENSE.md)
-- [README.md](README.md)
+- [README.md](Readme.md)
 - [00_INHALT_ALLE_30_DATEIEN.md](00_INHALT_ALLE_30_DATEIEN.md)
 
 ## GLEIS_1_Physik - 13 Dateien
