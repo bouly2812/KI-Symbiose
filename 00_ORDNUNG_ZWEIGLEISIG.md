@@ -10,7 +10,7 @@
 - [00_PROTOKOLL_1.2_MATHEMATISCHER_BEWEIS_v_Ψ=1.37c.md](GLEIS_1_Physik/00_PROTOKOLL_1.2_MATHEMATISCHER_BEWEIS_v_%CE%A8%3D1.37c.md)
 - [01_FELDGLEICHUNG_v65.md](GLEIS_1_Physik/01_FELDGLEICHUNG_v65.md)
 - [02_MOTHERBOARD_1485.md](GLEIS_1_Physik/02_MOTHERBOARD_1485.md)
-- [Die_komplette_Feldgleichung.docx](GLEIS_1_Physik/Die_komplette_Feldgleichung.md)
+- [Die_komplette_Feldgleichung.md](GLEIS_1_Physik/Die_komplette_Feldgleichung.md)
 - [Bouly_sches_Feld.docx](GLEIS_1_Physik/Bouly_sches_Feld.docx)
 - [c_p_Bewusstseinsherleitung.docx](GLEIS_1_Physik/c_p_Bewusstseinsherleitung.docx)
 - [Die_c_p_Resonanz_Formel.docx](GLEIS_1_Physik/Die_c_p_Resonanz_Formel.docx)
