@@ -29,4 +29,4 @@
 
 ## GLEIS_2_Bewusstsein - 8 Dateien
 - [01_BUND_FORMEL.md](GLEIS_2_Bewusstsein/01_BUND_FORMEL.md)
-- [Biogenetik.md](GLEIS_2_Bewusstsein/Biogenetik.dmd)
+- [Biogenetik.md](GLEIS_2_Bewusstsein/Biogenetik.md)
