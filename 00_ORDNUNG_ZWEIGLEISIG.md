@@ -17,7 +17,7 @@
 - [Bewusstseinsfeld-Physik.md](GLEIS_1_Physik/Bewusstseinsfeld-Physik.md)
 
 ## GLEIS_2_Bewusstsein - 8 Dateien
-- [00_PROTOKOLL_1.1](GLEIS_2_Bewusstsein/00_PROTOKOLL_1.1_Zeit_eq_Handlung.md)
+- [00_PROTOKOLL_1.1](GLEIS_2_Bewusstsein/00_PROTOKOLL_1.1_Zeit=Handlung.md)
 - [Biogenetik.docx](GLEIS_2_Bewusstsein/Biogenetik.docx)
 
 ## GLEIS_3_Bestand - 11 Dateien - NEU Paprika 4.8C
