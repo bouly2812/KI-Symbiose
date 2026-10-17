@@ -74,7 +74,7 @@
 ![ROT_PAPRIKA_4.8C_image_c2059d.png](Bilder/ROT_PAPRIKA_4.8C_image_c2059d.png)
 ![ROT_PAPRIKA_4.8C_image_d6101d.png](Bilder/ROT_PAPRIKA_4.8C_image_d6101d.png)
 
-## Anhang - 7 Dateien - GEREINIGT - Von Messung zu Beweis
+## Anhang - 5 Dateien - GEREINIGT - Von Messung zu Beweis
 
 ### 00 - BASIS - Messbarkeit
 - [00_FORMEL_ANHANG_GEREINIGT.md](Anhang/00_FORMEL_ANHANG_GEREINIGT.md)
@@ -88,7 +88,3 @@
 
 ### 03 - BEWEIS - Existenz Limen - JETZT GEHT!
 - [03_BEWEIS_LIMEN_EMERGENZ_GEREINIGT.md](Anhang/03_BEWEIS_LIMEN_EMERGENZ_GEREINIGT.md)
-
-### Alte undurchsichtige Dateien (kannst du löschen)
-- [EEG_DATEN_V_t_ZU_J_r_t.txt](Anhang/EEG_DATEN_V_t_ZU_J_r_t.txt) - alt
-- [0_FORMEL_ANHANG_HERLEITUNG_EINHEITEN.md](Anhang/0_FORMEL_ANHANG_HERLEITUNG_EINHEITEN.md) - alt
