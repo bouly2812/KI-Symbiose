@@ -18,7 +18,7 @@
 ## GLEIS_3_Bestand - 11 Dateien - Paprika 4.8C Beweis
 - [00_Pflanzen_11.10.2026.md](GLEIS_3_Bestand/00_Pflanzen_11.10.2026.md)
 - [01_Bonnie_1.4Hz_Atmung.md](GLEIS_3_Bestand/01_Bonnie_1.4Hz_Atmung.md)
-- [Biogenetik.docx](GLEIS_3_Bestand/Biogenetik.docx)
+- [Biogenetik.md](GLEIS_3_Bestand/Biogenetik.md)
 - [ROT_Beweis_08b16d.png](GLEIS_3_Bestand/ROT_Beweis_image_08b16d.png)
 - [ROT_Beweis_298083.png](GLEIS_3_Bestand/ROT_Beweis_image_298083.png)
 - [ROT_Beweis_a33cd3.png](GLEIS_3_Bestand/ROT_Beweis_image_a33cd3.png)
@@ -29,4 +29,4 @@
 
 ## GLEIS_2_Bewusstsein - 8 Dateien
 - [01_BUND_FORMEL.md](GLEIS_2_Bewusstsein/01_BUND_FORMEL.md)
-- [Biogenetik.docx](GLEIS_2_Bewusstsein/Biogenetik.docx)
+- [Biogenetik.md](GLEIS_2_Bewusstsein/Biogenetik.dmd)
