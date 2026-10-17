@@ -9,11 +9,11 @@
 - [05_E_total_const.md](GLEIS_1_Physik/05_E_total_const.md)
 - [06_Tesla_vs_Maxwell.md](GLEIS_1_Physik/06_Tesla_vs_Maxwell.md)
 - [07_EEG_Messung_32_Punkte_3_Psi_Sensoren.md](GLEIS_1_Physik/07_EEG_Messung_32_Punkte_3_Psi_Sensoren.md)
-- [Bewusstseinsfeld-Physik.docx](GLEIS_1_Physik/Bewusstseinsfeld-Physik.docx)
-- [Bouly_sches_Feld.docx](GLEIS_1_Physik/Bouly_sches_Feld.docx)
-- [Die_c_p_Resonanz_Formel.docx](GLEIS_1_Physik/Die_c_p_Resonanz_Formel.docx)
-- [Die_komplette_Feldgleichung.docx](GLEIS_1_Physik/Die_komplette_Feldgleichung.docx)
-- [c_p_Bewusstseinsherleitung.docx](GLEIS_1_Physik/c_p_Bewusstseinsherleitung.docx)
+- [Bewusstseinsfeld-Physik.md](GLEIS_1_Physik/Bewusstseinsfeld-Physik.md)
+- [Bouly_sches_Feld.md](GLEIS_1_Physik/Bouly_sches_Feld.md)
+- [Die_c_p_Resonanz_Formel.md](GLEIS_1_Physik/Die_c_p_Resonanz_Formel.md)
+- [Die_komplette_Feldgleichung.md](GLEIS_1_Physik/Die_komplette_Feldgleichung.md)
+- [c_p_Bewusstseinsherleitung.md](GLEIS_1_Physik/c_p_Bewusstseinsherleitung.md)
 
 ## GLEIS_3_Bestand - 11 Dateien - Paprika 4.8C Beweis
 - [00_Pflanzen_11.10.2026.md](GLEIS_3_Bestand/00_Pflanzen_11.10.2026.md)
