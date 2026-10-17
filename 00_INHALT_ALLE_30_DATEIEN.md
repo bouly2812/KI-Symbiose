@@ -24,8 +24,8 @@
 - [ROT_Beweis_a33cd3.png](GLEIS_3_Bestand/ROT_Beweis_image_a33cd3.png)
 
 ## Bilder - Paprika + Dracaena
-- [PAPRIKA_4.8C](Bilder/PAPRIKA_4.8C_d6101d.png)
-- [DRACAENA](Bilder/DRACAENA_a33cd3.png)
+- [PAPRIKA_4.8C](Bilder/ROT_PAPRIKA_4.8C_image_d6101d.png)
+- [DRACAENA](Bilder/ROT_Beweis_image_a33cd3.png)
 
 ## GLEIS_2_Bewusstsein - 8 Dateien
 - [01_BUND_FORMEL.md](GLEIS_2_Bewusstsein/01_BUND_FORMEL.md)
