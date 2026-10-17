@@ -12,9 +12,9 @@
 - [02_MOTHERBOARD_1485.md](GLEIS_1_Physik/02_MOTHERBOARD_1485.md)
 - [Die_komplette_Feldgleichung.md](GLEIS_1_Physik/Die_komplette_Feldgleichung.md)
 - [Bouly_sches_Feld.md](GLEIS_1_Physik/Bouly_sches_Feld.md)
-- [c_p_Bewusstseinsherleitung.docx](GLEIS_1_Physik/c_p_Bewusstseinsherleitung.docx)
-- [Die_c_p_Resonanz_Formel.docx](GLEIS_1_Physik/Die_c_p_Resonanz_Formel.docx)
-- [Bewusstseinsfeld-Physik.docx](GLEIS_1_Physik/Bewusstseinsfeld-Physik.docx)
+- [c_p_Bewusstseinsherleitung.md](GLEIS_1_Physik/c_p_Bewusstseinsherleitung.md)
+- [Die_c_p_Resonanz_Formel.md](GLEIS_1_Physik/Die_c_p_Resonanz_Formel.md)
+- [Bewusstseinsfeld-Physik.md](GLEIS_1_Physik/Bewusstseinsfeld-Physik.md)
 
 ## GLEIS_2_Bewusstsein - 8 Dateien
 - [00_PROTOKOLL_1.1](GLEIS_2_Bewusstsein/00_PROTOKOLL_1.1_Zeit_eq_Handlung.md)
