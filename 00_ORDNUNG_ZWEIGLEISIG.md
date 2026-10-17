@@ -21,7 +21,7 @@
 - [Biogenetik.md](GLEIS_2_Bewusstsein/Biogenetik.md)
 
 ## GLEIS_3_Bestand - 11 Dateien - NEU Paprika 4.8C
-- [Biogenetik.docx](GLEIS_3_Bestand/Biogenetik.docx)
+- [Biogenetik.md](GLEIS_3_Bestand/Biogenetik.md)
 - [PAPRIKA_d6101d.png](GLEIS_3_Bestand/PAPRIKA_4.8C_d6101d.png)
 - [PAPRIKA_c2059d.png](GLEIS_3_Bestand/PAPRIKA_4.8C_c2059d.png)
 - [DRACAENA_a33cd3.png](GLEIS_3_Bestand/DRACAENA_a33cd3.png)
